@@ -1,2 +1,2 @@
-# three-cube-sample
+# three-line-example
 Created with CodeSandbox
